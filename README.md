@@ -1,7 +1,6 @@
 👋 Hi, I’m Bach
 I’m currently learning at Swinburne University of Technology
 📫 How to reach me:
-- Phone: 0912099240
 - Email: lenhobach@gmail.com
 Thank you!
 

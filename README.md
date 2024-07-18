@@ -20,19 +20,6 @@ If you have any question or simply want to talk, don't hesitate to contact me th
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
------
-
-### Stats
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiimbach&theme=vision-friendly-dark)](https://git.io/streak-stats)
--->
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=hiimbach&count_private=true&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimbach&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 -----
 Thank you!

@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="200" />
   <h2> 👋 Hi I’m Bach </h2>
 </div>
 

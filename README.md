@@ -5,7 +5,8 @@
 -----
 
 I’m a Computer Science student at Swinburne University of Technology.\
-I am specialized in Artificial Intelligence, especially NLP and LLM. I also have decent experience in Computer Vision and Image Generation\
+\
+I am specialized in Artificial Intelligence, especially NLP and LLM. I also have decent experience in Computer Vision and Image Generation.\
 If you have any question or simply want to talk, don't hesitate to contact me through my email: lenhobach@gmail.com, or: 
 
 <div id="badges" align="center">
